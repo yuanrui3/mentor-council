@@ -52,3 +52,7 @@ Name a figure and that figure answers. Otherwise the skill reads your situation 
 ## Credits
 
 The Justin Sun persona's playbook and style notes draw on ideas from [sun-yuchen-perspective](https://github.com/alchaincyf/sun-yuchen-perspective) by 花叔 Huashu (MIT License). Its facts were checked separately.
+
+## License
+
+[MIT](LICENSE). The license covers this skill's text. It doesn't grant any rights in the names or likenesses of the people portrayed.
